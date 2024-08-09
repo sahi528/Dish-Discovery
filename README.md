@@ -7,7 +7,6 @@ DishDiscovery is a multifaceted project designed to revolutionize how users disc
 - [Objective](#objective)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
 - [Usage](#usage)
 
 ## Objective
@@ -41,6 +40,7 @@ DishDiscovery aims to deliver a user-friendly experience, making it simple for i
 ### Backend:
 - **Flask** (Python)
 - **SQLite** (Database)
+- **PHP**
 
 ## Usage
 
