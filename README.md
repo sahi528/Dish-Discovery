@@ -55,3 +55,6 @@ DishDiscovery aims to deliver a user-friendly experience, making it simple for i
 3. **Community Engagement:**
    - Follow other users, like, and comment on shared content.
    - Participate in discussions and exchange ideas with culinary enthusiasts worldwide.
+
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahi528)
